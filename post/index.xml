@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Poetic GIS</title>
-    <link>https://webgis.github.io/post/</link>
+    <link>https://webgiszxw.github.io/post/</link>
     <description>Recent content in Posts on Poetic GIS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2020</copyright>
     <lastBuildDate>Mon, 30 Mar 2020 21:04:25 +0800</lastBuildDate>
     
-	<atom:link href="https://webgis.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://webgiszxw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Poem1</title>
-      <link>https://webgis.github.io/2020/03/30/poem1/</link>
+      <link>https://webgiszxw.github.io/2020/03/30/poem1/</link>
       <pubDate>Mon, 30 Mar 2020 21:04:25 +0800</pubDate>
       
-      <guid>https://webgis.github.io/2020/03/30/poem1/</guid>
+      <guid>https://webgiszxw.github.io/2020/03/30/poem1/</guid>
       <description>如果我是一棵苹果树 看着满盘子的 烂苹果 我困惑 如果我是一棵苹果树 为什么还会想要结果
 那只是繁殖的副产品 还是像它头顶的天一样 不小心给了 麻雀 语言和宗教 却教它自缢在 穹顶之下
 一切自然着 没有让树下的 墓碑和枯枝下的蚂蚁 包括蚁后 察觉到什么 包括鸟和苹果腐烂的本质</description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>First</title>
-      <link>https://webgis.github.io/2020/03/30/first/</link>
+      <link>https://webgiszxw.github.io/2020/03/30/first/</link>
       <pubDate>Mon, 30 Mar 2020 19:57:20 +0800</pubDate>
       
-      <guid>https://webgis.github.io/2020/03/30/first/</guid>
+      <guid>https://webgiszxw.github.io/2020/03/30/first/</guid>
       <description>我的的的的额二点额</description>
     </item>
     
