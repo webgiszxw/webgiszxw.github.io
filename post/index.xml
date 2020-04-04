@@ -2,22 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Poetic GIS</title>
-    <link>https://webgiszxw.github.io/post/</link>
+    <link>webgiszxw.github.io/post/</link>
     <description>Recent content in Posts on Poetic GIS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2020</copyright>
-    <lastBuildDate>Mon, 30 Mar 2020 21:04:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 14:40:24 +0800</lastBuildDate>
     
-	<atom:link href="https://webgiszxw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="webgiszxw.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>水缺乏症</title>
+      <link>webgiszxw.github.io/2020/03/31/%E6%B0%B4%E7%BC%BA%E4%B9%8F%E7%97%87/</link>
+      <pubDate>Tue, 31 Mar 2020 14:40:24 +0800</pubDate>
+      
+      <guid>webgiszxw.github.io/2020/03/31/%E6%B0%B4%E7%BC%BA%E4%B9%8F%E7%97%87/</guid>
+      <description>我在思考
+哪个更干
+一是罹患咽炎夜半卧床的男人的喉舌
+二是对伴侣已无人欲的女人的阴部
+三是文思枯竭的艺术家的烟灰缸
+分泌腺没有一如往常的施工
+寸步难行的渗透压和递质
+男人艰涩的吞了口涎水
+女人硬着头皮演完了
+艺术家拿烟头烫出来个半成品
+我笃定他们其实不用这么义无反顾地
+把日子过的这么潦草
+也笃定他们在最开始
+未曾意识到他们会干
+江渚和落日帝国
+田园和耶路撒冷
+仓房和蒙德里安
+哪个更干
+看那个被填满的凹凼
+女人用嘴喂给了男人一块还未含化的冰块儿
+男人咽部微润
+开始撞击暗礁
+嘀嗒嘀嗒
+儿子才是艺术家</description>
+    </item>
+    
+    <item>
       <title>Poem1</title>
-      <link>https://webgiszxw.github.io/2020/03/30/poem1/</link>
+      <link>webgiszxw.github.io/2020/03/30/poem1/</link>
       <pubDate>Mon, 30 Mar 2020 21:04:25 +0800</pubDate>
       
-      <guid>https://webgiszxw.github.io/2020/03/30/poem1/</guid>
+      <guid>webgiszxw.github.io/2020/03/30/poem1/</guid>
       <description>如果我是一棵苹果树 看着满盘子的 烂苹果 我困惑 如果我是一棵苹果树 为什么还会想要结果
 那只是繁殖的副产品 还是像它头顶的天一样 不小心给了 麻雀 语言和宗教 却教它自缢在 穹顶之下
 一切自然着 没有让树下的 墓碑和枯枝下的蚂蚁 包括蚁后 察觉到什么 包括鸟和苹果腐烂的本质</description>
@@ -25,11 +57,30 @@
     
     <item>
       <title>First</title>
-      <link>https://webgiszxw.github.io/2020/03/30/first/</link>
+      <link>webgiszxw.github.io/2020/03/30/first/</link>
       <pubDate>Mon, 30 Mar 2020 19:57:20 +0800</pubDate>
       
-      <guid>https://webgiszxw.github.io/2020/03/30/first/</guid>
-      <description>我的的的的额二点额</description>
+      <guid>webgiszxw.github.io/2020/03/30/first/</guid>
+      <description>同时赞美混乱和秩序 无序的东西令我着迷
+比如杂乱的阴毛
+比如高台上的皇帝
+再或者，垂死的红巨星
+同样的，整齐的东西我也喜欢
+运动会颁奖时播放的进行曲
+高台下的我们
+再或者，更整齐的我们
+好好学习
+天天向下
+向下是星云万物
+向下是首尾相接的救赎
+神灵和元素周期表
+正在往更里头，生长
+我在这里
+看到了起源
+原来我是一只卷尾猴对着檀树自慰时的幻想对象用随身听杀死妻子时不小心打碎的培养基里的冈比锥虫独裁者手刃保守派的百年纪念日黄昏街道上的无性别示威者第二百七十四份贞操
+也看到了尽头
+一个极其普通的阴雨天
+贞操一个跟头撞进了永恒里</description>
     </item>
     
   </channel>
